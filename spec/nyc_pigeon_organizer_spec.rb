@@ -24,7 +24,7 @@ describe "NYC Pigeon Organizer" do
       
         }
        :names =>{ 
-         "Theo", "Peter Jr", "Andrew", "Lukcky", 
+         "Theo", "Peter Jr", "Lucky", "Queenie", "Andrew", "Ms.K", "Alex",
        } 
       }
       
