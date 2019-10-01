@@ -21,8 +21,13 @@ describe "NYC Pigeon Organizer" do
           "Central Park" => ["Alex", "Ms. K", "Lucky"],
           "Library" => ["Peter Jr."],
           "City Hall" => ["Andrew"]
+      
         }
+       :names =>{ 
+         "Theo", "Peter Jr", "Lucky", "Queenie", "Andrew", "Ms.K", "Alex",
+       } 
       }
+      
       @result = nyc_pigeon_organizer(pigeon_data)
     end
 
